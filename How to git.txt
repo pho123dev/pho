@@ -1,0 +1,20 @@
+mkdir G:/github
+cd G:/github
+
+- config user
+git config --global user.name "pho123dev"
+git config --global user.email "pho123dev@gmail.com"
+git clone https://github.com/pho123dev/pho.git
+
+cd pho
+
+git add . tải lên
+git push origin main  đẩy len nhanh cua git (vd: main)
+
+git commit -m "them ghi chu"
+git tag demotag
+git push origin demotag  đẩy len tag cua git (vd: demotag)
+
+
+git pull origin main tải xuống
+
