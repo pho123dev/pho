@@ -9,6 +9,7 @@ git clone https://github.com/pho123dev/pho.git
 cd pho
 
 git add . tải lên
+git commit -m "16-2-2022" commit truoc khi day len
 git push origin main  đẩy len nhanh cua git (vd: main)
 
 git commit -m "them ghi chu"
